@@ -10,3 +10,7 @@
 <p align="center">
     📌 <strong><em>Code and Model are coming soon!</em></strong> 📌
 </p>
+
+<p align="center">
+    📖 <b><a href="https://arxiv.org/abs/2503.06949" style="text-decoration: none;">Read our Paper</a></b> 📖
+</p>
