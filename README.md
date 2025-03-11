@@ -1,4 +1,4 @@
-# LvShan
+# LexPro（律智)
 
 
 <h2 align="center">⚖️ <span style="color:#4a90e2">LexPro（律智）-1.0</span> ⚖️</h2>
